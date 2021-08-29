@@ -1,0 +1,7 @@
+
+n=int(input())
+if n<0:
+    print('Error')
+else:
+    s=n**2
+    print(s)
